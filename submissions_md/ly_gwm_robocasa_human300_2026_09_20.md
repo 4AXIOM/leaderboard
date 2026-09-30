@@ -1,6 +1,6 @@
 ## Submission details
 
-- Model name: LY-GWM-RoboCasa
+- Model name: LY-GWM-RoboCasa-Human300
 - Submitter: SEIN-LYGWM
 - Date evaluated: 09/24/2026
 - RoboCasa version: 1.0.1
